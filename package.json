@@ -75,7 +75,7 @@
     "body-parser": "^1.18.2",
     "copyfiles": "^1.2.0",
     "cross-env": "^5.0.5",
-    "express": "^4.16.1",
+    "express": "^4.17.3",
     "file-loader": "^1.1.5",
     "fs": "^0.0.1-security",
     "history": "^4.7.2",
